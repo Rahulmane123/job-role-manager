@@ -26,7 +26,7 @@ This is a full-stack MERN application to manage job roles. It allows users to cr
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone Repository
+### Clone Repository
 ```bash
 git clone https://github.com/Rahulmane123/job-role-manager.git
 cd job-role-manager
